@@ -99,7 +99,7 @@ header .banner-text h2 {
 header .banner-text h3 {
    font: 3rem/1.1em 'opensans', sans-serif;
    color: rgb(122, 231, 235);
-   letter-spacing: -2px;
+   letter-spacing: 0px;
    margin: 0 auto 18px auto;
    text-shadow: 0px 1px 3px rgba(0, 0, 0, .8);
 }
