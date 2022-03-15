@@ -265,7 +265,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #f00000; }
+ul#nav li.current a { color: rgb(102, 225, 230); }
 
 
 /* ------------------------------------------------------------------ */
